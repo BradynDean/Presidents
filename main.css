@@ -17,3 +17,7 @@ section {
 section h2,h3,p {
 	color: white;
 }
+
+img {
+	width: 200px;
+}
